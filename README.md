@@ -1,3 +1,8 @@
+> **Fork note:** This is dbett4's working fork of NousResearch/hermes-agent.
+> My upstream contribution: [PR #84621](https://github.com/NousResearch/hermes-agent/pull/84621)
+> (`fix(desktop): recover sessions behind profile shadows`, open) — see
+> [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
+
 <p align="center">
   <img src="assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
